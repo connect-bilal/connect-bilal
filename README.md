@@ -10,7 +10,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-💻 &nbsp; **Languages:**
+🖥️ &nbsp; **Languages:**
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -20,7 +20,7 @@
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 🎨 &nbsp; **Frontend:**
- - ![React](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
+- ![React](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react)
   ![Next](https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
   ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)
@@ -31,45 +31,45 @@
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
   ![Storybook]()
 
-🛢 &nbsp; **Backend:**
- - ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+🔧 &nbsp; **Backend:**
+- ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 
 🛢 &nbsp; **Databases:**
- - ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)
   ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
 
-📝 &nbsp; **Git:**
- - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+🗂️ &nbsp; **Git:**
+- ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
- &nbsp; **Testing:**
+✅ &nbsp; **Testing:**
 - ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)
   ![Cypress]()
   ![Playwright]()
+  ![Selenium]()
   ![Jest]()
   ![Unittest]()
 
-💻 &nbsp; **IDE/Code Editors:**
- - ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
+🧑‍💻 &nbsp; **IDE/Code Editors:**
+- ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
   ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
 
 🖥️ &nbsp; **Operating Systems:**
-  - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-   ![Windows]()
+- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+  ![Windows]()
 
-
-📝 &nbsp; **Others:**
- - ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+🔍 &nbsp; **Others:**
+- ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
   ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
