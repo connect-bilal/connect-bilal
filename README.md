@@ -61,7 +61,7 @@
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
   ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
   ![Unittest]()
-  ![Jasmine]()
+  ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff)
 
 🧑‍💻 &nbsp; **IDE/Code Editors:**
 - ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
@@ -81,6 +81,7 @@
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
   ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
   ![Azure](https://custom-icon-badges.demolab.com/badge/Azure-DevOps-0078D6?logo=windows11&logoColor=white)
+  ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
 
 <h2 align="left">Certifications:</h2>
 <li>I’ve achieved 50+ certifications in the field of Computer Science. <a href="https://www.linkedin.com/in/connect-bilal/details/certifications/">[Link]</a></li>
