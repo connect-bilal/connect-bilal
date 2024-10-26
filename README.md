@@ -70,7 +70,8 @@
   ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
 
 🖥️ &nbsp; **Operating Systems:**
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+- ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
   ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 🔍 &nbsp; **Others:**
