@@ -35,7 +35,6 @@
 - ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
   ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
   ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 
@@ -52,7 +51,6 @@
 - ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ✅ &nbsp; **Testing:**
 - ![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)
@@ -61,13 +59,6 @@
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff)
   ![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)
   ![Unittest]()
-  ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff)
-
-🧑‍💻 &nbsp; **IDE/Code Editors:**
-- ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-  ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)
 
 🖥️ &nbsp; **Operating Systems:**
 - ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
