@@ -6,7 +6,7 @@
 
 - [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect-bilal/)
  [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@connect-bilal)
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bilalahmad.khan@hotmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:bilal.inform@gmail.com)
 
 <h2 align="left">Languages and Tools:</h2>
 
