@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm <a href="https://www.linkedin.com/in/connect-bilal/" target="blank">Bilal Ahmad Khan </h1></a>
 <h4 align="center">A Passionated Full Stack Developer 💻</h4>
 
-<p> I am a confident and highly motivated Full Stack Developer, organized and focused, with over <b>4+ years</b> of experience in Web Development. I am a champion of best practices and possess required communication skills. My career aspiration is to evolve into an outstanding Software Engineer.</p>
+<p> I am a confident and highly motivated Full Stack Developer, organized and focused, with over <b>4+ years</b> of experience in Web Development. I am a champion of best practices and possess required communication skills.</p>
 <h2 align="left">Connect with me:</h2>
 
 - [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connect-bilal/)
